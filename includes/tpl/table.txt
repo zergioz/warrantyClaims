@@ -1,0 +1,89 @@
+<table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tbody>
+          <tr>
+            <td><table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td><table width="340" border="0" align="left" cellpadding="5" cellspacing="1">
+                    <tbody>
+                      <tr>
+                        <td width="110" bgcolor="#FDFDF7"><span class="tit">CLAIM ID:</span></td>
+                        <td bgcolor="#FDFDF7"><span class="tit">2000059</span></td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF" class="tit">Customer ID:</td>
+                        <td bgcolor="#FFFFFF"><span class="txt">10017</span></td>
+                      </tr>
+                      <tr>
+                        <td align="left" bgcolor="#FDFDF7" class="tit">Type:</td>
+                        <td bgcolor="#FDFDF7"><span class="txt">AG</span></td>
+                      </tr>
+                      <tr>
+                        <td align="left" bgcolor="#FFFFFF" class="tit">REF:</td>
+                        <td bgcolor="#FFFFFF"><span class="txt">12345</span></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+                  <td><table width="340" border="0" align="right" cellpadding="5" cellspacing="1">
+                    <tbody>
+                      <tr>
+                        <td width="110" bgcolor="#FDFDF7" class="tit">Customer:</td>
+                        <td bgcolor="#FDFDF7"><span class="txt">Eddie Garcia</span></td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF" class="tit">Address:</td>
+                        <td bgcolor="#FFFFFF"><span class="txt">3000 w. 16ave. miami</span></td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FDFDF7" class="tit">Phone #</td>
+                        <td bgcolor="#FDFDF7"><span class="txt">9544749090</span></td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF" class="tit">Date:</td>
+                        <td bgcolor="#FFFFFF"><span class="txt">2015/08/17</span></td>
+                      </tr>
+                      </tbody>
+                  </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="20"></td>
+          </tr>
+          <tr>
+            <td><table width="700" border="0" align="center" cellpadding="5" cellspacing="1">
+              <tbody>
+                <tr>
+                  <td width="142" bgcolor="#FDFDF7" class="tit">Status:</td>
+                  <td bgcolor="#FDFDF7" class="txt">PUMP BODY BROKEN OR CRACKED</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" class="tit">Status notes:</td>
+                  <td bgcolor="#FFFFFF" class="txt">Leaks</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FDFDF7" class="tit">Installation:</td>
+                  <td bgcolor="#FDFDF7" class="txt">INDOOR|MACHINE OEM PRODUCT CONDITION|CITY PRESSURE</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" class="tit">Operation:</td>
+                  <td bgcolor="#FFFFFF" class="txt">PSI: GPM: FLUID:</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FDFDF7" class="tit">Installation notes:</td>
+                  <td bgcolor="#FDFDF7" class="txt">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF" class="tit">Description:</td>
+                  <td bgcolor="#FFFFFF" class="txt">THE PUMP DOES NOT MEET THE FLOW|INLET</td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FDFDF7" class="tit">Description notes:</td>
+                  <td bgcolor="#FDFDF7" class="txt">&nbsp;</td>
+                </tr>
+               </tbody>
+            </table></td>
+          </tr>
+        </tbody>
+    </table>

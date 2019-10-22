@@ -3,12 +3,12 @@
 
 /* start db credentials */
 define('_DB_HOSTNAME','localhost');
-define('_DB_NAME','warranty');
-define('_DB_USERNAME','pdwarrantyuser');
-define('_DB_PASSWORD','P@ssword305!');
+define('_DB_NAME','warrantyClaims');
+define('_DB_USERNAME','');
+define('_DB_PASSWORD','');
 
 /* Define the BASE URL */
-define('_BASE_URL','http://warranty.pdwatersystems.com');
+define('_BASE_URL','/');
 
 /* system alerts */
 # passsword change 
